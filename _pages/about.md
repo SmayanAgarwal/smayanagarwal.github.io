@@ -1,7 +1,7 @@
 ---
 permalink: /
-layout: home
 title: "Smayan Agarwal"
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
