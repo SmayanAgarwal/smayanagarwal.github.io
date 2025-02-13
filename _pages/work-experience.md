@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive
 title: "Research & Work Experience"
 permalink: /work-experience/
 ---
