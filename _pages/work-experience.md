@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Research & Work Experience"
-permalink: /research/
+permalink: /work-experience/
 ---
 
 ## Research Experience
