@@ -4,16 +4,19 @@ title: "Research & Work Experience"
 permalink: /work-experience/
 ---
 
-## Research Experience
-
-### Raman Research Institute | Research Associate (June 2024 – Present)
-- Interned at QuIC (Quantum Information and Computing Lab) under [Bhatnagar Awardee Professor Urbasi Sinha](https://en.wikipedia.org/wiki/Urbasi_Sinha).
-- Developed quantum computing algorithms for faster processing of 1-D and 2-D signals, applied to real-world ECG (Electro-cardiogram) data.
+### Raman Research Institute | Research Associate (June 2024 – December 2024)
+- Interned at [QuIC (Quantum Information and Computing Lab)](https://wwws.rri.res.in/quic/) at Raman Research Institute, Bengaluru under [Bhatnagar Awardee Professor Urbasi Sinha](https://en.wikipedia.org/wiki/Urbasi_Sinha).
+- Developed **quantum computing algorithms** based on the Quantum Fourier Transform for faster and more accurate processing of 1-D and 2-D signals, applied to real-world ECG (Electro-cardiogram) data.
 
 ### BITS Pilani, Goa Campus | Research Associate (May 2024 – June 2024)
-- Applied Machine Learning algorithms (Bagging, Random Forests) to estimate biomass content and carbon sequestration potential in the Western Ghats.
+- Applied **Machine Learning algorithms** (Bagging, Random Forests) to estimate biomass content and carbon sequestration potential in the Western Ghats.
+
+### Dorje Teas | Tech Intern (May 2021 - Present)
+- Responsible for the setting up and maintaining performance marketing on Meta Ads and Google Ads which resulted in a **ROAS (Return on Ad Spend) of 4.5**
+- Worked on SEO initiatives and addressed website slowdowns, resulting in heightened viewer retention and reduced bounce rates.  
+- Expanded product visibility by strategically adding catalogue listings to four distinct e-commerce platforms, effectively doubling product exposure.
 
 ### Confluence Media, Delhi | Research Intern (May 2023 – July 2023)
-- Worked under journalist Josy Joseph on a documentary discussing sex work in India.
+- Worked under journalist [Josy Joseph](https://en.wikipedia.org/wiki/Josy_Joseph) on a documentary discussing sex work in India.
 - Conducted extensive research and participated in episode recording/shooting.
-- **Watch the documentary:** [Black Warrant on Netflix](https://www.netflix.com/title/81971071)
+- You can now watch the documentary: [Black Warrant on Netflix](https://www.netflix.com/title/81971071)
