@@ -8,9 +8,7 @@ redirect_from:
 ---
 
 ## My Resume
-
-### 📜 View Resume  
-<iframe src="/files/Smayan Agarwal Resume H2 2024.pdf" width="100%" height="600px" style="border: none;">
+<iframe src="files/Smayan Agarwal Resume H2 2024.pdf" width="100%" height="600px" style="border: none;">
     <p>Unable to display PDF. <a href="/assets/files/resume.pdf" download>Download it here</a>.</p>
 </iframe>
 
