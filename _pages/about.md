@@ -9,6 +9,8 @@ redirect_from:
 
 I am a third-year undergraduate student majoring in Computer Science and Mathematics and minoring in Physics at Ashoka University. My research interest lies in theoretical CS, focusing on automata and logic. I am currently working with [Professor Aalok Thakkar](https://www.ashoka.edu.in/profile/aalok-thakkar/) on a paper about weighted automata. 
 
+Previously I have worked under [Professor Urbasi Sinha](https://en.wikipedia.org/wiki/Urbasi_Sinha) on applying quantum computing algorithms to 1-D and 2-D data.
+
 I am actively looking for opportunities for the summer of 2025.
 
 
