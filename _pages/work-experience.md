@@ -6,7 +6,9 @@ permalink: /work-experience/
 
 ### Raman Research Institute | Research Associate (June 2024 – December 2024)
 - Interned at [QuIC (Quantum Information and Computing Lab)](https://wwws.rri.res.in/quic/) under [Professor Urbasi Sinha](https://en.wikipedia.org/wiki/Urbasi_Sinha).
-- Developed **quantum computing algorithms** based on the Quantum Fourier Transform for faster and more accurate processing of 1-D and 2-D signals, applied to real-world ECG (Electro-cardiogram) data.
+- Designed quantum algorithms leveraging the Quantum Fourier Transform to enhance signal processing efficiency for 1-D and 2-D data.
+- Applied quantum techniques to real-world ECG data, improving speed and accuracy in biomedical signal analysis.
+
 
 ### BITS Pilani, Goa Campus | Research Associate (May 2024 – June 2024)
 - Applied Machine Learning algorithms (Bagging, Random Forests) to estimate biomass content and carbon sequestration potential in the Western Ghats.
