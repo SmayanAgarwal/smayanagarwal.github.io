@@ -20,11 +20,14 @@ main:
   - title: "Work Experience"
     url: /work-experience/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
     
   - title: "CV"
     url: /cv/
+
+  - title: "Fun Stuff"
+    url: /fun-stuff/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
