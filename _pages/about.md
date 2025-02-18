@@ -16,11 +16,6 @@ I am a third-year undergraduate student of Computer Science and Mathematics at A
 - Machine Learning Verification
 
 
-**Notable Work Experience**
-- Interned under Professor Urbasi Sinha at Raman Research Institute
-- Applied Machine Learning to estimate biomass concentration in the Western Ghats
-- Set up performance marketing for Dorje Teas
-
 <p align="center">
   <a href="files/Smayan Agarwal Resume H2 2024.pdf" download>
       <button style="background-color:#000000; color:white; border:none; padding:10px 20px; font-size:16px; cursor:pointer;">
