@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year undergraduate student of Computer Science and Mathematics at Ashoka University. My research interest lies in theoretical CS, focusing on automata and logic. I am currently working with [Professor Aalok Thakkar](https://www.ashoka.edu.in/profile/aalok-thakkar/) on a paper about weighted automata. I have a CGPA of 3.95 and a Major GPA of 3.97.
+I am a third-year undergraduate student of Computer Science and Mathematics at Ashoka University. My research interest lies in theoretical CS, focusing on automata and logic. I am currently working with [Professor Aalok Thakkar](https://www.ashoka.edu.in/profile/aalok-thakkar/) on a paper about weighted automata. 
+
+I am actively looking for opportunities for the summer of 2025.
 
 
 **Research Interests:**
