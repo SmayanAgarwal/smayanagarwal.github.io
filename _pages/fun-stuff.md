@@ -3,22 +3,13 @@ layout: archive
 title: "Fun Stuff"
 permalink: /fun-stuff/
 ---
-
-
 ## Books I Love & Recommendations
-I enjoy reading novel and other books on science, history and philosophy. (I also really enjoy making reading lists):
+I love reading more than anything else in the world. Novels are by far my favorite:
 
-### Difficult Reads but Worth It
-- Gödel, Escher, Bach: An Eternal Golden Braid – Douglas Hofstadter
-- The Years of Lyndon Johnson - Robert Caro
-- 
+### Currently Reading (on 24th Feb 2025)
+- The Years of Lyndon Johnson: The Means of Ascent - Robert Caro
+- Intermezzo by Sally Rooney
 
-### For Those Who Haven't Read In A While
-- The Godfather – Mario Puzo
-- The Shiva Trilogy – Amish
-- Normal People - Sally Rooney
-- The Devotion of Suspect X - Keigo Higashino
-- The Agony and the Ecstasy - Irving Stone
 
 ### All Time Favourites
 - A Gentleman in Moscow - Amor Towles
@@ -26,6 +17,26 @@ I enjoy reading novel and other books on science, history and philosophy. (I als
 - 
 - Gone with the Wind - Margaret Mitchell
 - Hind Swaraj - Mahatma Gandhi
+
+### Favourite Indian Fiction
+- Stars from Another Sky - Saadat Hasan Manto
+- The Enchantress of Florence - Salman Rushdie
+- An Interpretor for all Maladies - Jhumpa Lahiri
+- Chaar Adhyaay - Rabindranath Tagore
+- The Hungry Tide - Amitava Ghosh
+
+### Difficult Reads but Worth It
+- Gödel, Escher, Bach: An Eternal Golden Braid – Douglas Hofstadter
+- The Years of Lyndon Johnson - Robert Caro
+- Beware of Pity - Stefan Zweig
+- Hind Swaraj - Mahatma Gandhi
+
+### For Those Who Haven't Read In A While
+- The Godfather – Mario Puzo
+- The Shiva Trilogy – Amish
+- Normal People - Sally Rooney
+- The Devotion of Suspect X - Keigo Higashino
+- The Agony and the Ecstasy - Irving Stone
 
 ---
 
@@ -35,10 +46,22 @@ I am an **active quizzer** and the **President of Ashoka University’s Quizzing
 **Quizzes I Have Made:**  
 [🔗 Google Drive Link](https://your-google-drive-link-here)
 
+
+## Podcasts
+
+I have recently started listening to podcasts and have really been loving the following:
+
+- The Dwarkesh Podcast
+- Acquired
+- The Anurag Minus Verma Podcast
+- Pod Save America
+- Talking Politics: A History of Ideas
+
+
 ---
 
 ## ✍️ Blog Posts I've Written
-I occasionally write (or at least try to) about **culture, science, and other random trivia**.
+I occasionally write (or at least try to):
 
 **Read my blog posts here:**
 - 📝 [The Beauty of Automata Theory](https://your-blog-link-1.com)
