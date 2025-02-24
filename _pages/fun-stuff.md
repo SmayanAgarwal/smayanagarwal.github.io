@@ -47,10 +47,10 @@ I love reading more than anything else in the world. Novels are by far my favori
 ---
 
 ## Quizzing
-I am an **active quizzer** and the **President of Ashoka University’s Quizzing Club**.
+I am an active quizzer and the President of Ashoka University’s Quizzing Club.
 
 **Quizzes I Have Made:**  
-[🔗 Google Drive Link](https://your-google-drive-link-here)
+[Google Drive Link](https://drive.google.com/drive/folders/1cgSDxefU-gj5pb2J8zsR8CxPIu2CkxVW?usp=sharing)
 
 
 ## Podcasts
@@ -70,7 +70,7 @@ I have recently started listening to podcasts and have really been loving the fo
 I occasionally write (or at least try to):
 
 **Read my blog posts here:**
-- 📝 [The Beauty of Automata Theory](https://your-blog-link-1.com)
+- [Peter Cat and the Invention of Nostalgia](https://your-blog-link-1.com)
 - 📝 [Why Quantum Computing is Hard](https://your-blog-link-2.com)
 - 📝 [The Mathematics of General Knowledge](https://your-blog-link-3.com)
 
