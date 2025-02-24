@@ -21,7 +21,7 @@ I am actively looking for opportunities for the summer of 2025.
 
 
 <p align="center">
-  <a href="files/Smayan Agarwal Resume H2 2024.pdf" download>
+  <a href="files/Smayan Agarwal Resume 2025.pdf" download>
       <button style="background-color:#000000; color:white; border:none; padding:10px 20px; font-size:16px; cursor:pointer;">
           Download Resume
       </button>
