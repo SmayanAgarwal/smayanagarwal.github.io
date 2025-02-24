@@ -70,8 +70,8 @@ I have recently started listening to podcasts and have really been loving the fo
 I occasionally write (or at least try to):
 
 **Read my blog posts here:**
-- [Peter Cat and the Invention of Nostalgia](https://your-blog-link-1.com)
-- 📝 [Why Quantum Computing is Hard](https://your-blog-link-2.com)
-- 📝 [The Mathematics of General Knowledge](https://your-blog-link-3.com)
+- [Peter Cat and the Invention of Nostalgia](posts/peter-cat-invention-nostalgia)
+
+I promise to write more 😭
 
 ---
