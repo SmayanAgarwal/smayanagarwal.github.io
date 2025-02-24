@@ -14,9 +14,15 @@ I love reading more than anything else in the world. Novels are by far my favori
 ### All Time Favourites
 - A Gentleman in Moscow - Amor Towles
 - A Room of One's Own - Virginia Woolf
-- 
 - Gone with the Wind - Margaret Mitchell
 - Hind Swaraj - Mahatma Gandhi
+
+### Favorite High Literature 
+- The Death of Ivan Ilyich - Leo Tolstoy
+- Notes from Underground - Fyodor Dostoevsky
+- To-morrow - Joseph Conrad
+- Choli ke Peeche - Mahasweta Devi
+- Season of Migration to the North - Tayeb Salih
 
 ### Favourite Indian Fiction
 - Stars from Another Sky - Saadat Hasan Manto
