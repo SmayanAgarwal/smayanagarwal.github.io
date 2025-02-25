@@ -70,8 +70,8 @@ I have recently started listening to podcasts and have really been loving the fo
 I occasionally write (or at least try to):
 
 **Read my blog posts here:**
-- [Peter Cat and the Invention of Nostalgia](posts/peter-cat-invention-nostalgia)
+- [Peter Cat and the Invention of Nostalgia](/posts/peter-cat-invention-nostalgia/)
 
-I promise to write more 😭
+I promise there'll be more stuff here the by the next time you look at this 😭
 
 ---
