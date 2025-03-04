@@ -5,7 +5,7 @@ permalink: /work-experience/
 ---
 
 ### Raman Research Institute | Research Associate (June 2024 – December 2024)
-- Conducted quantum computing research under the supervision of [Professor Urbasi Sinha](https://en.wikipedia.org/wiki/Urbasi_Sinha) at the Quantum Information and Computing Lab (QuIC), continuing beyond the summer internship period.
+- Conducted quantum computing research under the supervision of [Professor Urbasi Sinha](https://en.wikipedia.org/wiki/Urbasi_Sinha) at the [Quantum Information and Computing Lab (QuIC)](https://wwws.rri.res.in/quic/), continuing beyond the summer internship period.
 - Developed novel quantum algorithms incorporating Quantum Fourier Transform techniques to optimize signal processing for both one-dimensional and two-dimensional datasets.
 - Implemented quantum computing methods for ECG signal analysis, demonstrating improved computational efficiency and accuracy in biomedical signal processing applications.
 
