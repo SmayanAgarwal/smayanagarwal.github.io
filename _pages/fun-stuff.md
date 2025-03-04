@@ -8,13 +8,14 @@ I love reading more than anything else in the world. Novels are by far my favori
 
 ### Currently Reading (on 24th Feb 2025)
 - The Years of Lyndon Johnson: The Means of Ascent - Robert Caro
-- Intermezzo by Sally Rooney
+- Intermezzo - Sally Rooney
 
 
 ### All Time Favourites
 - A Gentleman in Moscow - Amor Towles
 - A Room of One's Own - Virginia Woolf
 - Gone with the Wind - Margaret Mitchell
+- Foundation - Isaac Asimov
 - Hind Swaraj - Mahatma Gandhi
 
 ### Favorite High Literature 
@@ -24,7 +25,15 @@ I love reading more than anything else in the world. Novels are by far my favori
 - Choli ke Peeche - Mahasweta Devi
 - Season of Migration to the North - Tayeb Salih
 
-### Favourite Indian Fiction
+### Favorite Science Fiction
+- Foundation - Isaac Asimov
+- Seveneves - Neal Stephenson
+- Thousandth Night - Alastair Reynolds
+- A Psalm for the Wild-Built - Becky Chambers
+- A Memory Called Empire - Arkady Martine
+- Ender's Game - Orson Scott Card
+
+### Favourite Indian Writing
 - Stars from Another Sky - Saadat Hasan Manto
 - The Enchantress of Florence - Salman Rushdie
 - An Interpretor for all Maladies - Jhumpa Lahiri
