@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<!-- ## Teaching Assistant for Symbolic Logic and Applications  -->
+## Teaching Assistant 
 ### Symbolic Logic and Applications | August 2025 - December 2025
 - Conducted weekly doubt clearing sessions
 - Co-designed and graded assignments, assessments, and final projects
