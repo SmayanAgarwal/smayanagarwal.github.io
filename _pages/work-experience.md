@@ -4,6 +4,11 @@ title: "Research & Work Experience"
 permalink: /work-experience/
 ---
 
+### Alt Carbon | Intern (June 2025 - August 2025)
+- Conducted a meta-analysis of Machine Learning and Computer Vision applications in soil science to direct the company’s climate dataset utilization strategy.
+- Authored a comprehensive Product Requirement Document (PRD) defining the mathematical logic, data cleaning, and processing workflows for Alt Carbon’s credit calculation and verification engine.
+- Built a conversation AI tool using Streamlit and the Perplexity API to automate scientific literature reviews, reducing research turnaround time
+
 ### Raman Research Institute | Research Associate (June 2024 – December 2024)
 - Conducted quantum computing research under the supervision of [Professor Urbasi Sinha](https://en.wikipedia.org/wiki/Urbasi_Sinha) at the [Quantum Information and Computing Lab (QuIC)](https://wwws.rri.res.in/quic/), continuing beyond the summer internship period.
 - Developed novel quantum algorithms incorporating Quantum Fourier Transform techniques to optimize signal processing for both one-dimensional and two-dimensional datasets.
