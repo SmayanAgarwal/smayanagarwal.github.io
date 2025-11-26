@@ -22,15 +22,15 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
-  - title: "Resume"
-    url: /resume/
 
   - title: "Teaching"
     url: /teaching
 
   - title: "Research"
     url: /research
+
+  - title: "Resume"
+    url: /resume/
 
   - title: "Fun Stuff"
     url: /fun-stuff/
