@@ -17,4 +17,4 @@ author_profile: true
 # Talks
 ### Markov Chains
 - Delivered a presentation on Markov Decision Processes and its application to Reinforcement Learning as a part of my 'Games on Graphs' course.
-- (Lecture slides) []
+- [Lecture slides](https://drive.google.com/file/d/1UXtmPrGOXBMGjxsn-8FgCYQ2u5iCZ6pn/view?usp=sharing)
