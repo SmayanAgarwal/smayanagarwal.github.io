@@ -13,3 +13,8 @@ author_profile: true
 
 ### Theory of Computation (upcoming) | January 2026 - May 2026
 - Course description: [link] (https://aalok-thakkar.github.io/teaching/spring2026/toc/index.html)
+
+# Talks
+### Markov Chains
+- Delivered a presentation on Markov Decision Processes and its application to Reinforcement Learning as a part of my 'Games on Graphs' course.
+- (Lecture slides) []
