@@ -16,7 +16,7 @@ I am actively looking for opportunities for the summer of 2025.
 
 **Research Interests:**
 - Theoretical Computer Science (Automata Theory, Logic, Algebra)
-- Quantum Computing
+- Cryptography
 - Machine Learning Verification
 
 
