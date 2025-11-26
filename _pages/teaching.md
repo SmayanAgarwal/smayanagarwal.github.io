@@ -15,6 +15,6 @@ author_profile: true
 - Course description: [link](https://aalok-thakkar.github.io/teaching/spring2026/toc/index.html)
 
 # Talks
-### Markov Chains
+### Markov Decision Processes
 - Delivered a presentation on Markov Decision Processes and its application to Reinforcement Learning as a part of my 'Games on Graphs' course.
 - [Lecture slides](https://drive.google.com/file/d/1UXtmPrGOXBMGjxsn-8FgCYQ2u5iCZ6pn/view?usp=sharing)
