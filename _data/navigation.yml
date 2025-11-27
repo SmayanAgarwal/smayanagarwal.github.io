@@ -22,12 +22,13 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
+  
+  - title: "Research"
+    url: /research
 
   - title: "Teaching"
     url: /teaching
 
-  - title: "Research"
-    url: /research
 
   - title: "Resume"
     url: /resume/
