@@ -9,7 +9,7 @@ I am working on my fourth year thesis under the guidance of [Professor Aalok Tha
 
 
 <iframe src="files/_DataMod_2025__Revised.pdf" width="100%" height="600px" style="border: none;">
-    <p>Unable to display PDF. <a href="/files/_DataMod_2025__Revised.pdf" download>Download it here</a>.</p>
+    <p>Unable to display PDF. <a href="files/_DataMod_2025__Revised.pdf" download>Download it here</a>.</p>
 </iframe>
 
 <!-- 
