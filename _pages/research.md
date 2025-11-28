@@ -5,8 +5,12 @@ permalink: /research/
 author_profile: true
 ---
 
-I am working on my fourth year thesis under Professor Aalok Thakkar as a part of the Weighted Automata Group. The topic of my thesis is 'Probability Distributions over Strings'. We are focused on studying such probability distributions through the lens of finite state machines. As a part of this group, I have had one publication at the DATAMOD symposium which was a part of Software Engineering and Formal Methods (SEFM) 2025. 
-files/_DataMod_2025__Revised.pdf
+I am working on my fourth year thesis under the guidance of [Professor Aalok Thakkar](aalok-thakkar.github.io) as a part of the Weighted Automata Group. The topic of my thesis is 'Probability Distributions over Strings'. We are focused on studying such probability distributions through the lens of finite state machines. As a part of this group, I have had one publication at the DATAMOD symposium, a satellite event of Software Engineering and Formal Methods (SEFM) 2025. 
+
+
+<iframe src="files/_DataMod_2025__Revised.pdf" width="100%" height="600px" style="border: none;">
+    <p>Unable to display PDF. <a href="/files/_DataMod_2025__Revised.pdf" download>Download it here</a>.</p>
+</iframe>
 
 <!-- 
 {% if site.author.googlescholar %}
