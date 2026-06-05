@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research & Work Experience"
+title: "Internship and Work Experience"
 permalink: /work-experience/
 ---
 

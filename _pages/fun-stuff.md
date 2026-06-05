@@ -6,14 +6,9 @@ permalink: /fun-stuff/
 ## Books I Love & Recommendations
 I love reading more than anything else in the world. Novels are by far my favorite:
 
-### Currently Reading (on 24th Feb 2025)
-- The Years of Lyndon Johnson: The Means of Ascent - Robert Caro
-- Intermezzo - Sally Rooney
-
-
 ### All Time Favourites
+- The Years of Lyndon Johnson: Master of the Senate - Robert Caro
 - A Gentleman in Moscow - Amor Towles
-- A Room of One's Own - Virginia Woolf
 - Gone with the Wind - Margaret Mitchell
 - Foundation - Isaac Asimov
 - Hind Swaraj - Mahatma Gandhi

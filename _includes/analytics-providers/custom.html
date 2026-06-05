@@ -1,3 +1,10 @@
 <!-- start custom analytics snippet -->
 
+<!-- GoatCounter: privacy-friendly, cookieless analytics.
+     Set your site code in _config.yml under analytics.goatcounter.code -->
+{% if site.analytics.goatcounter.code %}
+<script data-goatcounter="https://{{ site.analytics.goatcounter.code }}.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+{% endif %}
+
 <!-- end custom analytics snippet -->
