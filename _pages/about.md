@@ -11,7 +11,7 @@ From July 2026, I shall be starting a new position as a research fellow at [IIT 
 
 I did my undergraduate degree in Computer Science and Mathematics at Ashoka University. I did my undergraduate thesis on weighted automata and formal language theory under [Professor Aalok Thakkar](https://aalok-thakkar.github.io).
 
-If you are in Chennai, would love to [meet](mailto:smayanagarwal01@gmail.com).
+In June 2026, I shall be attending [ISLA](http://isla26.vercel.app/) and [FM Update](https://fm-update.github.io/) at Krea University. If you are in Chennai, would love to [meet](mailto:smayanagarwal01@gmail.com).
 
 <p><strong>Currently searching for a flat and flatmate to share in Chennai near IIT Madras. Call me or text me if you have any leads. <a href="#" onclick="var a=this; navigator.clipboard.writeText('9674137401'); a.textContent='Copied!'; setTimeout(function(){a.textContent='9674137401';}, 1500); return false;" title="Click to copy">9674137401</a></strong></p>
 
