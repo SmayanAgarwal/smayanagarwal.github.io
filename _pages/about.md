@@ -7,24 +7,49 @@ redirect_from:
   - /about.html
 ---
 
-From July 2026, I shall be starting a new position as a research fellow at [IIT Madras](https://www.iitm.ac.in/). I shall be a part of the [FP Launchpad](https://fplaunchpad.org/) team, a new centre funded by [Jane Street](https://www.janestreet.com/) focused on improving OCaml, under [Professor KC Sivaramakrishnan](https://kcsrk.info/).
+Currently, I am a research engineer at the [FP Launchpad](https://fplaunchpad.org/) team at [IIT Madras](https://www.iitm.ac.in/). FP Launchpad is a new centre funded by [Jane Street](https://www.janestreet.com/) focused on improving OCaml, under [Professor KC Sivaramakrishnan](https://kcsrk.info/).
 
 I did my undergraduate degree in Computer Science and Mathematics at Ashoka University. I did my undergraduate thesis on weighted automata and formal language theory under [Professor Aalok Thakkar](https://aalok-thakkar.github.io).
 
-In June 2026, I shall be attending [ISLA](http://isla26.vercel.app/) and [FM Update](https://fm-update.github.io/) at Krea University. If you are in Chennai, would love to [meet](mailto:smayanagarwal01@gmail.com).
-
-<p><strong>Currently searching for a flat and flatmate to share in Chennai near IIT Madras. Call me or text me if you have any leads. <a href="#" onclick="var a=this; navigator.clipboard.writeText('9674137401'); a.textContent='Copied!'; setTimeout(function(){a.textContent='9674137401';}, 1500); return false;" title="Click to copy">9674137401</a></strong></p>
-
 **Research Interests:**
-1. Programming Language Theory
+1. Programming Languages
 2. Automata Theory
 3. Logic
 
 
+<style>
+.resume-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5em;
+  background-color: #ffffff;
+  color: #494e52;
+  border: 2px solid #494e52;
+  border-radius: 0;
+  padding: 0.65em 1.4em;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  cursor: pointer;
+  text-decoration: none !important;
+  transition: background-color 0.2s ease, color 0.2s ease, transform 0.15s ease, box-shadow 0.2s ease;
+}
+.resume-btn:hover,
+.resume-btn:focus {
+  background-color: #313436;
+  color: #ffffff;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.18);
+  text-decoration: none !important;
+}
+.resume-btn:active {
+  transform: translateY(0);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.18);
+}
+</style>
+
 <p align="center">
-  <a href="files/Smayan Agarwal Resume June 2026.pdf" download>
-      <button style="background-color:#000000; color:white; border:none; padding:10px 20px; font-size:16px; cursor:pointer;">
-          Download Resume
-      </button>
+  <a class="resume-btn" href="files/Smayan Agarwal Resume June 2026.pdf" download>
+    Download Resume
   </a>
 </p>
