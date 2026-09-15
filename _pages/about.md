@@ -11,6 +11,8 @@ Currently, I am a research engineer at the [FP Launchpad](https://fplaunchpad.or
 
 I did my undergraduate degree in Computer Science and Mathematics at Ashoka University. I did my undergraduate thesis on weighted automata and formal language theory under [Professor Aalok Thakkar](https://aalok-thakkar.github.io).
 
+*My thesis work lead to the paper 'Localising Stochasticity in Weighted Automata' which has been accepted at [FSTTCS 2026](https://www.fsttcs.org.in/2026/#about). See y'all in Delhi in December!*
+
 **Research Interests:**
 1. Programming Languages
 2. Automata Theory
