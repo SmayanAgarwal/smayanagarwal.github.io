@@ -11,7 +11,7 @@ Currently, I am a research engineer at the [FP Launchpad](https://fplaunchpad.or
 
 I did my undergraduate degree in Computer Science and Mathematics at Ashoka University. I did my undergraduate thesis on weighted automata and formal language theory under [Professor Aalok Thakkar](https://aalok-thakkar.github.io).
 
-*My thesis work led to the paper* 'Localising Stochasticity in Weighted Automata' *which has been accepted at [FSTTCS 2026](https://www.fsttcs.org.in/2026/#about). See y'all in Delhi in December!*
+*My thesis work led to the paper* [Localising Stochasticity in Weighted Automata](https://arxiv.org/abs/2602.23805) *which has been accepted at [FSTTCS 2026](https://www.fsttcs.org.in/2026/#about). See y'all in Delhi in December!*
 
 **Research Interests:**
 1. Programming Languages
@@ -51,7 +51,7 @@ I did my undergraduate degree in Computer Science and Mathematics at Ashoka Univ
 </style>
 
 <p align="center">
-  <a class="resume-btn" href="files/Smayan Agarwal Resume June 2026.pdf" download>
+  <a class="resume-btn" href="files/Smayan Agarwal Resume August 2026.pdf" download>
     Download Resume
   </a>
 </p>

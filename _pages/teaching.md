@@ -24,3 +24,8 @@ author_profile: true
 ### Markov Decision Processes
 - Delivered a presentation on Markov Decision Processes and its application to Reinforcement Learning as a part of my 'Games on Graphs' course.
 - Lecture slides: [PDF](https://drive.google.com/file/d/1UXtmPrGOXBMGjxsn-8FgCYQ2u5iCZ6pn/view?usp=sharing)
+
+# Workshop
+### OCaml Workshop at IndiaFOSS 2026
+- Conducted an introductory OCaml workshop - [link](http://fplaunchpad.org/indiafoss-2026-ocaml-workshop/index.html)
+- Created coding exercises that involved students writing the logic for simple games like [Tic-Tac-Toe](http://fplaunchpad.org/indiafoss-2026-ocaml-workshop/04-tic-tac-toe.html) and [Wordle](http://fplaunchpad.org/indiafoss-2026-ocaml-workshop/07-wordle.html) in their browser.
